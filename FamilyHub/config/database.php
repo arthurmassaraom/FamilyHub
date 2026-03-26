@@ -1,8 +1,8 @@
 <?php
-$db_host = 'localhost:3306';
-$db_name = 'agenda_familia';
-$db_user = 'root';
-$db_pass = 'Senai@118';
+$db_host = '';
+$db_name = '';
+$db_user = '';
+$db_pass = '';
 
 try {
     $pdo = new PDO(
